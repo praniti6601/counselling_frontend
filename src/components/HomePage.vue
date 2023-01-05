@@ -8,7 +8,7 @@
       <h1 class="display-4 mb-4 text-light">e-Counselling Portal</h1>
     </div>
     </div></div></div>
-    <div class="container-fluid content-row">
+    <div class="container-fluid content-row" style="min-height: 300px;">
         <!-- Cards -->
         
          <div class="row">
