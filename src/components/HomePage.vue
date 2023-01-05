@@ -16,9 +16,9 @@
             <div class="card  h-100">
               <img class="card-img-top img-fluid" src="" alt="" />
               <div class="card-body">
-                <h3 class="card-title">Hostels</h3>
+                <h3 class="card-title">Institutes</h3>
                 <p class="card-text">
-                  Set numbert of rooms according to need.
+                  Add your colleges and total seats available in the respective branches for all categories. Start allotment on one single click.
                 </p>
               </div>
             </div>
@@ -27,9 +27,9 @@
             <div class="card  h-100">
               <img class="card-img-top img-fluid" src="" alt="" />
               <div class="card-body">
-                <h3 class="card-title">Rooms</h3>
+                <h3 class="card-title">Students</h3>
                 <p class="card-text">
-                 One or more students can be alloted a single room as per your need.
+               Fill your preferred choices of colleges with the branch you are interested in and lock them finally.
                 </p>
               </div>
             </div>
@@ -40,7 +40,7 @@
               <div class="card-body">
                 <h3 class="card-title">Information</h3>
                 <p class="card-text">
-                  You can send the allotment status mail to the students with their unique username and password in one single click.
+                Institutes and Students can login to see the alloted students lists and status of allotment respectively.
                 </p>
               </div>
             </div>
@@ -51,7 +51,7 @@
               <div class="card-body">
                 <h3 class="card-title">Preference</h3>
                 <p class="card-text">
-                  More preference will be introduced in future for allotment.
+                  More preferences will be introduced in future for allotment.
                 </p>
               </div>
             </div>
